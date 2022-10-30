@@ -1,0 +1,16 @@
+Les regles de gestion concernant la reservation de voyage:
+
+RG1: Un client fait aucun ou plusieurs reservations
+RG2: Une reservation est faite par un seul client 
+RG3: Une reservation peut comprendre un ou plusieurs voyageurs 
+RG4: Une reservation concerne un seul voyage
+RG5: Un voyageur est impliquer dans un ou plusieurs reservations
+RG6: Un voyage est concerner par un ou plusieurs reservations
+RG7: Un voyage possede un itineraire
+RG8: Un voyage est affecter a une voiture
+RG9: Une voiture fait aucun ou plusieurs voyage 
+RG10: Une voiture appartient a une seule classe 
+RG11: Une classe possede une ou plusieurs voitures
+RG12: Le client valide la reservation par le paiement de celle-ci
+RG13: Chaque paiement est lier a une reservation
+RG14: Un paiement valide une reservation
